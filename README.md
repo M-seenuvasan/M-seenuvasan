@@ -1,101 +1,81 @@
-👋 Hi, I'm Seenu Vasan
+<!-- Animated Header --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Seenu%20Vasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Backend+Developer;Future+AI+Engineer;Building+Real-World+Projects" /></div>---
 
-Python Developer | Aspiring Backend Developer
+👨‍💻 About Me
 
 I'm an IT graduate passionate about Python development, backend engineering, and building practical software solutions.
 
-I have experience working with Python-based automation, web scraping, and data extraction projects. I'm currently strengthening my backend development skills by learning, building, testing, and improving real-world applications.
+- 🔭 Currently focusing on Python Backend Development
+- 🌱 Learning Django, REST APIs, SQL and Docker
+- 💻 Experience in web scraping and data extraction
+- 🎯 Short-term goal: Backend Developer
+- 🤖 Long-term goal: AI Engineer
 
 ---
 
-🚀 Career Goals
-
-- 🎯 Short-Term Goal: Become a skilled Python Backend Developer.
-- 🤖 Long-Term Goal: Grow into an AI Engineer.
-- 💡 Interested in building scalable backend applications and solving real-world problems through technology.
-
-🛠️ Technical Skills
+⚡ Tech Stack
 
 Programming Languages
 
-- Python
-- SQL
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Backend Development
+Backend & Database
 
-- Django
-- REST API (Learning)
+"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Database
+Automation & Data Processing
 
-- MySQL
+"Selenium" (https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"BeautifulSoup" (https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge)
 
-Web Scraping & Automation
+Tools
 
-- Selenium
-- Requests
-- BeautifulSoup
-
-Data Processing
-
-- Pandas
-- Excel
-- CSV / PDF Data Extraction
-
-Tools & Technologies
-
-- Git & GitHub
-- Docker (Learning)
-- Linux
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Docker" (https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-💻 Experience & Technical Work
+💼 Experience
 
 - Developed Python-based web scraping and automation workflows.
-- Worked with Selenium, Requests, and BeautifulSoup for data extraction.
-- Processed and analyzed large election datasets using Python and Pandas.
-- Worked on PDF data extraction, validation, and structured reporting.
+- Used Selenium, Requests and BeautifulSoup for data extraction.
+- Processed large election datasets using Python and Pandas.
+- Worked on PDF extraction, data validation and structured reporting.
 
 ---
 
-📌 Featured Projects
+🚀 Featured Projects
 
-Projects will be added here as I develop and complete them.
-
-Project| Technology| Status
+Project| Technologies| Status
 Finance Collection Management System| Python, Django, MySQL| Planning
 Backend REST API Projects| Python, Django| Learning
-Web Scraping & Data Extraction| Python, Selenium, Pandas| Experience
+Election Data Extraction| Python, Selenium, Pandas| Experience
 
 ---
 
-📚 Currently Learning
+📊 GitHub Statistics
 
-- Python Backend Development
-- Django Architecture
-- REST API Development
-- Database Design
-- Git & GitHub
-- Docker
-- Software Development Best Practices
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=M-seenuvasan&show_icons=true&theme=tokyonight&hide_border=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-seenuvasan&layout=compact&theme=tokyonight&hide_border=true" /><img src="https://streak-stats.demolab.com?user=M-seenuvasan&theme=tokyonight&hide_border=true" /></div>---
 
----
+🎯 My Learning Journey
 
-📈 My Development Philosophy
+"Python" → "Django" → "REST APIs" → "Backend Engineering" → "AI Engineering"
+
+My philosophy:
 
 Learn → Build → Break → Fix → Repeat
-
-I believe in continuous learning, practical development, writing clean code, and improving through real-world projects.
 
 ---
 
 🤝 Connect With Me
 
-- GitHub: https://github.com/M-seenuvasan
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+<div align="center"><a href="https://github.com/M-seenuvasan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a></div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />⭐ Always Learning | Always Building | Never Give Up
 
----
-
-⭐ Always learning. Always building. Never stop improving.
+</div>
